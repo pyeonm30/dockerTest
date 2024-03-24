@@ -31,3 +31,23 @@ e
 5test/src/main/java/kr/study/test/TestApplication.java,1\7\17a49a772f06e72fd98bbc957afa1452ff65fb19
 D
 test/settings.gradle,6\3\63cc676d39869b262e8fd2e185dbf3d0b291c320
+?
+test/.gitignore,2\5\25be5b6b7434026c51f0a2e3593e2a27175da0d8
+?
+test/Dockerfile,8\0\80b903df39930631c87231b412eb9dd640ebd4da
+K
+test/src/docker-compose.yml,4\4\444e48f272d47aa3373a624ac21b3fba4f368b4f
+=
+entrypoint.sh,0\c\0cea7692c70202285602879b9911467df97f3ce5
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
+<
+test/gradlew,7\6\7677a561beba787040d7bf398cbe62994c87d60e
+G
+test/docker-compose.yml,4\0\40a047c94b3f0353e2b2a732395f920ec4f97f0f
+4
+.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
+B
+test/entrypoint.sh,f\e\fe19aa5a0425d97f57143b42c5bdfa5afd162de3
+9
+	test/.env,b\4\b42a035e1c046bcc77b4d5e70da8f57f786b2155
