@@ -1,0 +1,7 @@
+
+”
+java:S1192 "QDefine a constant instead of duplicating this literal "members/joinForm" 3 times.(âÈÁÃ8°Ûî…ç1J$7b96f6c5-b5a7-4034-9e30-571c1dabff27
+­
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ8Š°ê…ç1J$fdc2b130-9f8f-41de-bbf7-4201f0c964b1
+ƒ	java:S125*"<This block of commented-out lines of code should be removed.(õ£˜“øÿÿÿÿ8°ê…ç1J$cfb37e83-77eb-45bd-a3ce-0258df6df7f2
+~	java:S125;"<This block of commented-out lines of code should be removed.(—ì¢Æ8°ê…ç1J$f5781700-106e-4266-843c-f336403b6480

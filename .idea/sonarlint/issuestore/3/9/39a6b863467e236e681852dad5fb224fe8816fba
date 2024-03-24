@@ -1,0 +1,15 @@
+
+¦
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿJ$6e4cf6e5-29d9-4d59-ac81-a3bccf7cb271
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$48a9f509-716c-4870-b2bb-a673ab9200df
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$750f1e1b-0a3e-4145-ab62-56e746029f17
+|
+java:S1854:";Remove this useless assignment to local variable "members".(»À³ÇÿÿÿÿÿJ$fde1967b-37d2-45b5-b953-8824e49807dd
+h
+java:S14818",Remove this unused "members" local variable.(„§“’J$03366c27-dda9-4d27-b7f7-b7a7ce574a07
+{
+java:S6213M":Rename this variable to not match a restricted identifier.(®Á«ÊúÿÿÿÿJ$7abd88bc-0c14-4d05-8edc-7016133ffadf
+u
+java:S6213U":Rename this variable to not match a restricted identifier.(åÔä|J$a9a68702-5f94-4eb9-a4a9-ba628f4a980a
