@@ -15,8 +15,6 @@ e
 5test/src/main/java/kr/study/test/form/MemberForm.java,a\3\a35aef5ce51b2cbdcb24f14b7f9144e69d0ed8d6
 d
 4test/src/main/java/kr/study/test/form/StudyForm.java,2\d\2d47dc6e17b9def3fc875068c2743fc9defbfc2c
-t
-Dtest/src/main/java/kr/study/test/repository/MemberJpaRepository.java,b\7\b7a198b85980a3876469eabab6b995ba9013b5ec
 q
 Atest/src/main/java/kr/study/test/repository/MemberRepository.java,7\5\75d42b96b61e0c63eb930bb3d1a4bfe7f202b43f
 k
@@ -35,19 +33,7 @@ D
 test/.gitignore,2\5\25be5b6b7434026c51f0a2e3593e2a27175da0d8
 ?
 test/Dockerfile,8\0\80b903df39930631c87231b412eb9dd640ebd4da
-K
-test/src/docker-compose.yml,4\4\444e48f272d47aa3373a624ac21b3fba4f368b4f
-=
-entrypoint.sh,0\c\0cea7692c70202285602879b9911467df97f3ce5
-B
-docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
 <
 test/gradlew,7\6\7677a561beba787040d7bf398cbe62994c87d60e
-G
-test/docker-compose.yml,4\0\40a047c94b3f0353e2b2a732395f920ec4f97f0f
-4
-.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
 B
 test/entrypoint.sh,f\e\fe19aa5a0425d97f57143b42c5bdfa5afd162de3
-9
-	test/.env,b\4\b42a035e1c046bcc77b4d5e70da8f57f786b2155
